@@ -1,0 +1,21 @@
+{
+  "main": "index.html",
+  "name": "clock",
+  "description": "HitRat",
+  "version": "0.1.0",
+  "window": {
+    "title": "clock",
+    "toolbar": false,
+    "frame": true,
+    "width": 520,
+    "height": 520,
+    "position": "mouse",
+    "min_width": 520,
+    "min_height": 520,
+    "max_width": 520,
+    "max_height": 520
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
